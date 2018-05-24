@@ -71,3 +71,4 @@ out/
 *.tar.bz2
 chapter5/data/cache/epub/
 *.ldj
+bulk_result.json
