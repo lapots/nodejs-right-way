@@ -1,0 +1,19 @@
+{
+  "serviceUrl": "http://b4.example.com:60900",
+  "es": {
+    "host": "localhost",
+    "port": 9200,
+    "books_index": "books",
+    "bundles_index": "b4"
+  },
+  "auth": {
+    "facebook": {
+      "appID": "",
+      "appSecret": ""
+    },
+    "google": {
+      "clientID": "",
+      "clientSecret": ""
+    }
+  }
+}

@@ -72,3 +72,5 @@ out/
 chapter5/data/cache/epub/
 *.ldj
 bulk_result.json
+
+/sources
